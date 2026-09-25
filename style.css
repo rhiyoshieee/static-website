@@ -1,3 +1,7 @@
+html {
+    scroll-padding-top: 90px;
+  scroll-behavior: smooth;
+}
 :root {
     --bg-color: #f8f9fa;
     --card-bg: #ffffff;
